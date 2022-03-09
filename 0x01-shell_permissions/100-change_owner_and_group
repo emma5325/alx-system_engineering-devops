@@ -1,2 +1,5 @@
 #!/bin/bash
 chgrp vincent staff
+vincent staff
+vincent staff
+vincent staff
